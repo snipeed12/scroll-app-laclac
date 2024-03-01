@@ -1,4 +1,4 @@
-# Simple Scrollspy
+# Simple Scroll App
 
  is a lightweight javascript library without jQuery, no dependencies. It is used to make scrollspy effect for your menu, table of contents, etc. Only 1.4Kb.
 
@@ -7,30 +7,12 @@
 
 ### Using NPM package
 
-Install NPM package - https://www.npmjs.com/package/app-scrollspy:
+Install NPM package - https://www.npmjs.com/package/scroll-app-laclac
 
 ```npm
-npm install app-scrollspy
+npm install scroll-app-laclac
 ```
 
-### Using CDNjs
-
-The `simple-scrollspy` is already on CDNjs. Therefore, you can:
-1. Go to https://cdnjs.com/libraries/simple-scrollspy
-2. Choose a version
-3. Click `Copy Script Tag`, CDNjs will generate the script and copy them to your clipboard. For example:
-
-```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/simple-scrollspy/2.4.1/simple-scrollspy.min.js" integrity="sha512-NNb5TgmE+7PHedvAWwPKZ/ukCGJciTHZ23ghPriEeEfcGySDBm9zIrjaXp/WNAUcVYhi5XhJ1rHveDKR35CInw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-```
-
-### Using `simple-scrollspy.min.js` file
-
-You can download `simple-scrollspy.min.js` file on each release. Please check [the latest version](https://github.com/brittanytatum241/app-scrollspy/releases/latest).
-
-```html
-<script src="/path/to/dist/simple-scrollspy.min.js"></script>
-```
 
 ## Usages
 
@@ -133,29 +115,7 @@ scrollSpy('#main-menu', {
     })
   }
 })
-```
-
-## Development
-
-```bash
-$ yarn install
-$ yarn dev
-```
-
-## Build
-```bash
-$ yarn build
-```
-or:
-```npm
-$ npm run build
-```
-The `dist` folder is automatically created and includes the file `simple-scrollspy.min.js`
-
-## Note
-- Feel free to make a pull request if you can, and create a Github Issue if you come across one.
-- Don't forget to give it a star if you feel that the library is helpful to you. It may save somebody a lot of trouble someday.
-
+````
 
 ## Helpful links
 - [Documentation](https://github.com/brittanytatum241/app-scrollspy)

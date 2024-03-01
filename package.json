@@ -1,6 +1,6 @@
 {
-  "name": "app-scrollspy",
-  "version": "1.0.1",
+  "name": "scroll-app-laclac",
+  "version": "1.0",
   "description": "Simple scrollspy javascript without jQuery, no dependencies.",
   "main": "dist/index.js",
   "scripts": {
@@ -11,19 +11,18 @@
   },
   "repository": {
 	"type": "git",
-    "url": "https://github.com/brittanytatum241/app-scrollspy.git"
+    "url": "https://github.com/snipeed12/scroll-app-laclac.git"
   },
   "keywords": [
     "scroll",
-    "scrollspy",
-    "menuspy"
+    "scroll-app",
   ],
-  "author": "brittanytatum241",
+  "author": "snipeed12",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brittanytatum241/app-scrollspy/issues"
+    "url": "https://github.com/snipeed12/scroll-app-laclac/issues"
   },
-  "homepage": "https://github.com/brittanytatum241/app-scrollspy.git",
+  "homepage": "https://github.com/snipeed12/scroll-app-laclac",
   "devDependencies": {
     "standard-version": "^9.1.1",
     "terser-webpack-plugin": "^5.3.6",
