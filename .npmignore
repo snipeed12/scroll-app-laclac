@@ -1,0 +1,4 @@
+*
+!src/*
+!demo/dist/simple-scrollspy.min.js
+!package.json
