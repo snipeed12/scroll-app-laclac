@@ -118,9 +118,9 @@ scrollSpy('#main-menu', {
 ````
 
 ## Helpful links
-- [Documentation](https://github.com/brittanytatum241/app-scrollspy)
+- [Documentation](https://github.com/snipeed12/scroll-app-laclac.git)
 
-- [See on NPM package](https://www.npmjs.com/package/app-scrollspy)
+- [See on NPM package](https://www.npmjs.com/package/scroll-app-laclac)
 
 ## Licence
 [MIT](./LICENSE)
